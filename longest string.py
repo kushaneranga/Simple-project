@@ -3,6 +3,6 @@ i = input("input: ")
 len(n)
 len(i)
 if n > i:
-    print("longest: ", n)
+    print("longest string is: ", n)
 else:
-    print("longest: ", i)
+    print("longest string is: ", i)
